@@ -1,9 +1,9 @@
 <!-- ====== TITULO + SNAKE (ANIMADO) ====== -->
-<h1 align="center">
+<h1 align="center" style="text-size:19px;">
   Soy Boa Rodriguez
   <img
     src="https://raw.githubusercontent.com/BoaR8888/BoaR8888/output/snake-fire.svg"
-    width="1000"
+    width="100"
     alt="snake fire"
     style="vertical-align: middle; max-width: 100%;"
   />
