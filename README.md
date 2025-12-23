@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+</p>
+
 <!-- Banner (SVG dinámico) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,100:2563eb&text=Hola%2C%20soy%20TU_NOMBRE%20%F0%9F%91%8B&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Full%20Stack%20%7C%20Angular%20%2B%20Spring%20Boot%20%7C%20PostgreSQL&descAlignY=60" />
