@@ -3,9 +3,9 @@
   Soy Boa Rodriguez
   <img
     src="https://raw.githubusercontent.com/BoaR8888/BoaR8888/output/snake-fire.svg"
-    width="55"
+    width="1000"
     alt="snake fire"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; max-width: 100%;"
   />
 </h1>
 
