@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/BoaR8888/BoaR8888/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- Banner (SVG dinámico) -->
