@@ -1,9 +1,9 @@
 <!-- ====== TITULO + SNAKE (ANIMADO) ====== -->
-<h1 align="center" style="text-size:19px;">
+<h1 align="center" style="text-size:29px; color: orange;">
   Soy Boa Rodriguez
   <img
     src="https://raw.githubusercontent.com/BoaR8888/BoaR8888/output/snake-fire.svg"
-    width="100"
+    width="500"
     alt="snake fire"
     style="vertical-align: middle; max-width: 100%;"
   />
@@ -24,10 +24,15 @@
 
 <!-- ====== BOTONES (RESPONSIVOS) ====== -->
 <p align="center">
-  <a href="#proyectos"><img src="https://img.shields.io/badge/🚀%20PROYECTOS-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#yo"><img src="https://img.shields.io/badge/👤%20YO-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-  <a href="#eventos"><img src="https://img.shields.io/badge/📅%20EVENTOS-111827?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+  <a href="#yo"><img src="https://img.shields.io/badge/👤%20ME-0b1220?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#proyectos"><img src="https://img.shields.io/badge/🚀%20PROYECTOS-0b1220?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#aporte"><img src="https://img.shields.io/badge/🔥%20APORTE-0b1220?style=for-the-badge&logo=git&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#eventos"><img src="https://img.shields.io/badge/📅%20EVENTOS-0b1220?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 </p>
+
 
 <p align="center">
   <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
