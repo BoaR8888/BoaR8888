@@ -2,7 +2,7 @@
 <h1 align="center">
   Soy Boa Rodriguez
   <img
-    src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake-fire.svg"
+    src="https://raw.githubusercontent.com/BoaR8888/BoaR8888/output/snake-fire.svg"
     width="55"
     alt="snake fire"
     style="vertical-align: middle;"
